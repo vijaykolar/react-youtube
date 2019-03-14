@@ -1,9 +1,9 @@
 .ui.divided.list>.video-item {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
 }
 
 .video-item img.ui.image {
-    max-width: 150px;
+  max-width: 150px;
 }
